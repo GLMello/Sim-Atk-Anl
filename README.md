@@ -1,6 +1,6 @@
 <h1>Simulation - Network attack analysis</h1>
 
- ### Read this in: [Português](https://github.com/GLMello/Analise-Atq-Sim)
+ ### You can also read this in: [Português](https://github.com/GLMello/Analise-Atq-Sim)
 
 <h2>Description</h2>
 This project consists of analyzing a network attack simulation, identifying the kind of attack and explaining how it affected the targeted web page.
@@ -21,7 +21,7 @@ You take the server offline temporarily so that the machine can recover and retu
 
  ### [TCP/HTTP log](https://docs.google.com/spreadsheets/d/1PGqx7XkiAq2m5147FqyZ06JhLyrprZ0mQvwBBk8vJ_I/template/preview)
 
-<h2>Walk-through:</h2>
+<h2>Walk-through</h2>
 
 <p align="left">
 By analyzing the log I noticed the following connection attempts:
@@ -43,6 +43,6 @@ The final step was to come up with a report by using the deducted data along wit
 <br /><br />
 <img src="https://i.imgur.com/yr793sv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<h2>Note:</h2>
+<h2>Note</h2>
 
  This project was part of the course [Google Cybersecurity Professional Certificate.](https://www.coursera.org/professional-certificates/google-cybersecurity) <br />
