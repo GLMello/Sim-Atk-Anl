@@ -41,8 +41,8 @@ Henceforth, I was able to deduce that the attack was of the DoS SYN flood attack
 <br/><br />
 The final step was to come up with a report by using the deducted data along with the scenario information.
 <br /><br />
-<img src="https://i.imgur.com/yr793sv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yr793sv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <h2>Note</h2>
 
- This project was part of the course [Google Cybersecurity Professional Certificate.](https://www.coursera.org/professional-certificates/google-cybersecurity) <br />
+ This project was part of the course [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) course. <br />
